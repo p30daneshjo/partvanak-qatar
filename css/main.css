@@ -1,0 +1,37 @@
+@font-face {
+    font-family: vazir;
+    src: url(../font/Vazir.ttf);
+}
+
+body {
+    font-family: vazir !important;
+}
+
+.icon {
+    display: inline-flex;
+    border-radius: 10px;
+    background-color: #96284b;
+    padding: 15px;
+    color: white;
+}
+
+.icon-2 {
+    display: inline-flex;
+    border-radius: 10px;
+    background-color: #ffcc33;
+    padding: 15px;
+    color: #96284b;
+}
+
+.card-color {
+    background-color: #96284b;
+    color: white;
+}
+.haya{
+    background-image: url('../img/bg-pattran.png');
+}
+.img-icon {
+    border: 1px solid rgba(128, 128, 128, 0.397);
+    padding: 4px;
+    border-radius: 8px;
+}
